@@ -2,4 +2,4 @@
 
   Languages : HTML, CSS, JAVASCRIPT
   
-  Link to View live webpage :https://akashanandakumar-calculator-project.netlify.app/
+  * Link to View live webpage :https://akashanandakumar-calculator-project.netlify.app/
