@@ -1,4 +1,5 @@
-  Calculator Project is one of my practice to improve my skills on front-end web development. Learned some various css styles, javascript functionalities and much more.
+  - Calculator Project is one of my practice to improve my skills on front-end web development. 
+  - Learned some various css styles, javascript functionalities and much more.
 
   Languages : HTML, CSS, JAVASCRIPT
   
